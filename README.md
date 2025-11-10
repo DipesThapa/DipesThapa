@@ -21,22 +21,12 @@
 
 ## ⚡ Featured Projects  
 
-### [CloudGuard](https://github.com/DipesThapa/cloudguard)  
-Compliance-as-code security scanner for AWS:  
-- Detects S3 misconfigurations, IAM wildcard policies, open security groups.  
-- Outputs **HTML, JSON, and SARIF** reports.  
-- CI/CD friendly for DevSecOps pipelines.  
-
-### [Safeguard (SafeBrowse AI)](https://github.com/DipesThapa/safeguard)  
-Browser extension for phishing protection:  
-- Detects suspicious links/forms in real-time.  
-- Displays warning banners on unsafe pages.  
-- Lightweight, transparent, and AI-ready.  
-
-### [PortScanner](https://github.com/DipesThapa/PortScanner)  
-A simple Python-based port scanner:  
-- Fast scanning with multi-threading.  
-- Useful for basic pentesting & training.  
+| Project | Impact | Highlights | Stack |
+| --- | --- | --- | --- |
+| [**CloudGuard**](https://github.com/DipesThapa/cloudguard) | Compliance-as-code guardrails for SMEs adopting AWS securely. | Flags S3 public buckets, IAM wildcard policies, and SG drift; ships HTML/JSON/SARIF reports, Docker image, and CI-ready exit codes. | Python · Click CLI · pytest · GitHub Actions |
+| [**SafeBrowse AI**](https://github.com/DipesThapa/safebrowse-ai) | Privacy-first safeguarding extension for families, schools, and workplaces. | On-device heuristics + SafeSearch enforcement, PIN-protected overrides, safeguarding digest exports, plus DPIA/KCSIE collateral for fast roll-outs. | TypeScript · Vite · Chrome DNR · GitHub Actions/CodeQL |
+| [**PortScanner**](https://github.com/DipesThapa/PortScanner) | Modern Nmap wrapper that turns raw scans into usable intelligence. | Modular CLI + interactive helper, FastAPI automation backend, React dashboard, service-intel enrichment, baselines, and pluggable responders/deep dives. | Python · FastAPI · SQLModel · React/Vite |
+| [**Portfolio Site**](https://github.com/DipesThapa/Dipesthapa.com.np) | Living case-study hub for Global Talent evidence & client demos. | Highlights research, services, and lead funnels using shadcn-ui components, dark mode, and deploy-ready build scripts. | TypeScript · Vite · Tailwind/shadcn |
 
 ---
 
