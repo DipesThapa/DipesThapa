@@ -14,7 +14,7 @@
 ## 🔐 About Me  
 - 🎓 MSc Cybersecurity graduate in the UK.  
 - 🛡️ Passionate about **cloud security, penetration testing, and secure software development**.  
-- 🌍 Building open-source projects for **practical cybersecurity solutions** and Global Talent evidence.  
+- 🌍 Building open-source projects for **practical cybersecurity solutions** 
 - 💻 Experienced across **AWS Security, SOC tools, and Browser Security**.  
 
 ---
