@@ -28,10 +28,21 @@ Cybersecurity analyst (MSc Cybersecurity, University of Wolverhampton) focused o
 - Platforms: AWS, Kali Linux, Ubuntu, Windows Server
 
 <details>
-  <summary>GitHub stats</summary>
+<summary>GitHub stats</summary>
+<br />
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipesThapa&show_icons=true&theme=tokyonight)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DipesThapa&layout=compact&theme=tokyonight)
+<p>
+  <img
+    height="165"
+    alt="GitHub Stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DipesThapa&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="165"
+    alt="Top Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DipesThapa&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 </details>
 
 ## Contact
