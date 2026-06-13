@@ -1,31 +1,38 @@
 # Dipesh Thapa
 
-Cybersecurity analyst (MSc Cybersecurity, University of Wolverhampton) focused on building practical, security-first software and tooling.
+**Cybersecurity analyst** (MSc Cybersecurity, University of Wolverhampton) building practical, security-first software and tooling — from cloud compliance scanners to production retail systems.
 
 [![Followers](https://img.shields.io/github/followers/DipesThapa?label=Followers&style=social)](https://github.com/DipesThapa)
 [![Stars](https://img.shields.io/github/stars/DipesThapa?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/DipesThapa?tab=repositories)
 
-## Specialties
+---
 
-- Application & cloud security (secure-by-default architecture)
-- Penetration testing and hardening (OWASP-driven)
-- Logging/monitoring for incident readiness (SOC-minded)
-- Shipping reliable systems (CI/CD, guardrails, and clear operational docs)
+## What I do
+
+I work where security meets shipping software: hardening applications and cloud, turning offensive-security findings into fixes, and building tools that make good security the default rather than an afterthought.
+
+- **Application & cloud security** — secure-by-default architecture, threat modelling, hardening
+- **Offensive security** — penetration testing and OWASP-driven assessment
+- **Detection & response** — logging, monitoring, and incident readiness (SOC-minded)
+- **Engineering** — reliable systems with CI/CD, guardrails, and clear operational docs
 
 ## Selected projects
 
 | Project | Summary | Stack |
 | --- | --- | --- |
-| [Bardibas RetailOS](https://github.com/DipesThapa/Bardibas-Retail-OS) | POS + Inventory + Accounting for Nepal retailers. | React · Vite · Supabase · Firebase |
-| [PortScanner](https://github.com/DipesThapa/PortScanner) | Nmap wrapper that turns scans into actionable output. | Python · FastAPI |
-| [SafeBrowse AI](https://github.com/DipesThapa/safebrowse-ai) | Privacy-first safeguarding browser extension. | TypeScript · Vite |
+| **Bardibas RetailOS** *(private)* | Multi-tenant POS + Inventory + Accounting + Payroll for Nepal retailers — VAT/IRD compliant, offline-first. | React · Vite · Supabase · Firebase |
+| [ClinicOS](https://github.com/DipesThapa/Bardibas_Clinic_OS) | Clinic, pharmacy, and medical-operations platform adapted from a retail operations codebase. | React · TypeScript · Supabase |
+| [CloudGuard](https://github.com/DipesThapa/cloudguard) | Compliance-as-Code scanner that flags cloud misconfigurations (AWS S3 public buckets, risky IAM / security groups). CLI with HTML reports and Docker support. | Python · Docker |
+| [CommunityShield](https://github.com/DipesThapa/CommunityShield) | URL-safety service: a browser extension + FastAPI backend that classifies links as safe / caution / danger. | Python · TypeScript |
+| [PortScanner](https://github.com/DipesThapa/PortScanner) | Nmap wrapper that exposes advanced scan features as clean, actionable output. | Python |
+| [AdBlock Ultra](https://github.com/DipesThapa/AD_Blocker) | Manifest V3 browser extension blocking ads/trackers via dynamic network rules, cosmetic filtering, and heuristics. | JavaScript |
 
-## Tools
+## Toolbox
 
-- Security: Nmap, Burp Suite, OWASP ZAP, Nessus, Metasploit
-- Monitoring: Splunk, Security Onion, pfSense
-- Engineering: Python, Bash, TypeScript/JavaScript, GitHub Actions
-- Platforms: AWS, Kali Linux, Ubuntu, Windows Server
+- **Offensive:** Nmap, Burp Suite, OWASP ZAP, Nessus, Metasploit
+- **Defensive / monitoring:** Splunk, Security Onion, pfSense
+- **Engineering:** Python, Bash, TypeScript/JavaScript, FastAPI, React, GitHub Actions
+- **Platforms & cloud:** AWS, Docker, Supabase, Kali Linux, Ubuntu, Windows Server
 
 <details>
 <summary>GitHub stats</summary>
@@ -45,8 +52,8 @@ Cybersecurity analyst (MSc Cybersecurity, University of Wolverhampton) focused o
 </p>
 </details>
 
-## Contact
+## Get in touch
 
-- Email: [Hackmedipesh@gmail.com](mailto:Hackmedipesh@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/dipeshthapa07
-- Website: http://dipesthapa.com.np
+- **Email:** [Hackmedipesh@gmail.com](mailto:Hackmedipesh@gmail.com)
+- **LinkedIn:** [in/dipeshthapa07](https://www.linkedin.com/in/dipeshthapa07)
+- **Website:** [dipesthapa.com.np](http://dipesthapa.com.np)
