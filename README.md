@@ -20,7 +20,7 @@ I work where security meets shipping software: hardening applications and cloud,
 
 | Project | Summary | Stack |
 | --- | --- | --- |
-| **OroQ** *(private)* | Privacy-first family-safety suite — on-device web filtering (browser extension + Android app) with end-to-end-encrypted parent reporting. By CyberHeroez CIC. | TypeScript · Android · Cloudflare Workers |
+| [OroQ](https://github.com/DipesThapa/oroq) | Privacy-first family-safety suite — on-device web filtering (browser extension + Android app) with end-to-end-encrypted parent reporting. By CyberHeroez CIC. | TypeScript · Android · Cloudflare Workers |
 | **Bardibas RetailOS** *(private)* | Multi-tenant POS + Inventory + Accounting + Payroll for Nepal retailers — VAT/IRD compliant, offline-first. | React · Vite · Supabase · Firebase |
 | [ClinicOS](https://github.com/DipesThapa/Bardibas_Clinic_OS) | Clinic, pharmacy, and medical-operations platform adapted from a retail operations codebase. | React · TypeScript · Supabase |
 | [CloudGuard](https://github.com/DipesThapa/cloudguard) | Compliance-as-Code scanner that flags cloud misconfigurations (AWS S3 public buckets, risky IAM / security groups). CLI with HTML reports and Docker support. | Python · Docker |
