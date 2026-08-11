@@ -57,4 +57,4 @@ I work where security meets shipping software: hardening applications and cloud,
 
 - **Email:** [dipesh@cyberheroez.co.uk](mailto:dipesh@cyberheroez.co.uk)
 - **LinkedIn:** [in/dipeshthapa07](https://www.linkedin.com/in/dipeshthapa07)
-- **Website:** [dipesthapa.com.np](http://dipesthapa.com.np)
+- **Website:** [dipeshthapa.com](https://dipeshthapa.com)
